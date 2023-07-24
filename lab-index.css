@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid ;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    color: green;
+    }
+
+      
+h1 { 
+border-bottom: 1px solid black;
+   }
+
+
+P { color: black; }
+
+img {
+    width: 40%;
+    height: 50%;
+    object-fit: cover;
+
+}
+
+#intro {
+    padding: 25px 25px 25px 25px;
+    border: thin solid black;
+    margin-right: 240px;
+    margin-left: 30px;
+    line-height: 1.5em;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #222222;
+  }
